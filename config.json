@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/coding compass",
+    "prod_uri":"mysql://root:@localhost/coding compass",
+    "fb_url":"https://facebook.com/vijaydinanath.chauhan.750331",
+    "tw_url":"https://twitter.com/UmeshBh00953237",
+    "gh_url": "https://github.com/Umeshbhatt144",
+    "blog_name": "Coding Compass",
+    "tag_line": "A Blog For Programmers",
+    "gmail-user":"umeshbhatt144@gmail.com",
+    "gmail-password":"9716411343@@",
+    "about_text": "Hi my name is Umesh Bhatt. I created a Blog specially for Data Science.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"umesh",
+    "admin_password": "programmer",
+    "upload_location":"C:\\Users\\Deepak\\PycharmProjects\\Flask-tut\\static"
+
+
+  }
+
+}
